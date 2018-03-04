@@ -1,9 +1,9 @@
 Welcome to python-Rex
 =====================
 
-.. image:: https://pypip.in/v/python-rex/badge.png
+.. image:: https://img.shields.io/pypi/v/python-rex.svg
    :target: https://crate.io/packages/python-rex
-.. image:: https://pypip.in/d/python-rex/badge.png
+.. image:: https://img.shields.io/pypi/dm/python-rex.svg
    :target: https://crate.io/packages/python-rex
 .. image:: https://travis-ci.org/cypreess/python-rex.png?branch=master
    :target: https://travis-ci.org/cypreess/python-rex
